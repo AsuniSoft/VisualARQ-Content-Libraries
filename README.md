@@ -9,5 +9,5 @@ The VisualARQ Content Libraries Repository contains additional content to extend
 ## Downloading
 TODO: Add instructions
 
-## Constibuting
+## Contributing
 TODO: Add instructions
